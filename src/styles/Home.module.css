@@ -1,0 +1,42 @@
+/* *{
+    margin: 0;
+} */
+
+.container {
+    margin: 0;
+    padding: 0;
+}
+
+/* body {
+    margin: 0;
+  } */
+
+.main {
+    text-align: center;
+}
+
+.title {
+    font-size: 4rem;
+    margin: 2rem 0;
+}
+
+.profileImage {
+    border-radius: 50%;
+}
+
+.description {
+    font-size: 1.5rem;
+    margin-bottom: 30px;
+}
+
+.projectsGrid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.about{
+    margin: 40px 0px;
+}
